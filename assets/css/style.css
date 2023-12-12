@@ -4,3 +4,9 @@
     font-family: sans-serif;
     box-sizing: border-box;
 }
+body{
+    background: rgb(152, 250, 253);
+}
+.app{
+    background: #fff;
+}
