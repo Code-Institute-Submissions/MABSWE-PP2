@@ -17,4 +17,8 @@ const questions = [
         { text:  "Moana", correct: false},
     ]
 }
-]
+];
+
+const questionElement = document.getElementById("question");
+const anwserButtonsElement = document.getElementById("anwser-buttons");
+const buttonNextElement = document.getElementById("button_next");
