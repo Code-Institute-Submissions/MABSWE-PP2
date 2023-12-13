@@ -48,3 +48,12 @@ body {
 .button:hover{
     background: rgb(214, 214, 214);
 }
+
+#button_next{
+    background: rgb(216, 184, 5);
+    width: 100px;
+    cursor: pointer;
+    padding: 10px;
+    margin: 20px 440px 0;
+    
+}
