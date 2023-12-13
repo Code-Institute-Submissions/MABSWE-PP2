@@ -43,4 +43,8 @@ body {
     padding: 10px;
     margin: 10px 0;
     cursor: pointer;
+    transition: all 0.2s;
+}
+.button:hover{
+    background: rgb(214, 214, 214);
 }
