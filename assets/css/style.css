@@ -5,12 +5,15 @@
     font-family: 'Prompt', sans-serif;
     box-sizing: border-box;
 }
-body{
+
+body {
+    /*Background Image*/
     background-image: url(/assets/images/bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
-.app{
+
+.app {
     background: #fff;
     width: 90%;
     max-width: 600px;
@@ -18,14 +21,25 @@ body{
     border-radius: 10px;
     padding: 30px;
 }
-.app h1{
+
+.app h1 {
     color: rgb(110, 33, 33);
     text-align: center;
 }
-.quiz{
+
+    /*Quiz Headings*/
+.quiz {
     padding: 30px 0;
 }
-.quiz h2{
+
+.quiz h2 {
     color: rgb(32, 11, 11);
     text-align: center;
+}
+    /*Buttons*/
+.button{
+    background-color: rgb(204, 188, 141);
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
 }
