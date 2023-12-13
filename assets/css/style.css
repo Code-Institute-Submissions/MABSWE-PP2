@@ -22,3 +22,10 @@ body{
     color: rgb(110, 33, 33);
     text-align: center;
 }
+.quiz{
+    padding: 30px 0;
+}
+.quiz h2{
+    color: rgb(32, 11, 11);
+    text-align: center;
+}
