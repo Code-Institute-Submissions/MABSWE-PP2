@@ -22,3 +22,6 @@ const questions = [
 const questionElement = document.getElementById("question");
 const anwserButtonsElement = document.getElementById("anwser-buttons");
 const buttonNextElement = document.getElementById("button_next");
+
+let currentQuestionIndex = 0;
+let score = 0;
