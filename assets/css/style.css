@@ -6,7 +6,9 @@
     box-sizing: border-box;
 }
 body{
-    background: rgb(206, 253, 255);
+    background-image: url(/assets/images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .app{
     background: #fff;
