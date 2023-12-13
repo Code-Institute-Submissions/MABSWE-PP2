@@ -16,3 +16,7 @@ body{
     border-radius: 10px;
     padding: 30px;
 }
+.app h1{
+    color: rgb(110, 33, 33);
+    text-align: center;
+}
