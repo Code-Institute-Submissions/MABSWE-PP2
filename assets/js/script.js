@@ -41,8 +41,16 @@ function startQuiz() {
 
 function showQuestion(){
     let currentQuestion = questions[currentQuestionIndex];
-    let questNo = currentQuestionIndex + 1;
+    let questionNo = currentQuestionIndex + 1;
     questionElement.innerHTML = questionNo + ". " + currentQuestion.
     question;
+
+// Create and display buttons for answer options //
+    currentQuestion.answers.forEach(answer => {
+        const button = document.createElement("button");
+        button.innerHTML = answer.text;
+        button.classList.add("button");
+        anwserButtonsElement.appendChild(button);
+    });
 
 }
