@@ -67,3 +67,9 @@ body {
 .incorrect{
     background: red;
 }
+
+#start-button{
+    background: rgb(255, 255, 255);
+    width: 100px;
+    cursor: pointer;
+}
