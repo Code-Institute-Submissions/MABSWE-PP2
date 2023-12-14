@@ -89,6 +89,10 @@ function selectAnswer(e){
 
 }
 
+function showScore(){
+    resetState();
+}
+
 function handleNextButton(){
     currentQuestionIndex++;
     if(currentQuestionIndex < questions.length){
