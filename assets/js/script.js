@@ -3,7 +3,7 @@
 const questions = [
     {
         question: "What is the name of the main character in Finding Nemo?",
-        anwsers: [
+        answers: [
             { text: "Marlin", correct: false},
             { text: "Dory", correct: false},
             { text: "Nemo", correct: true},
@@ -12,7 +12,7 @@ const questions = [
     },
     {
         question: "Which movie features the song Hakuna Matata?",
-        anwsers: [
+        answers: [
             { text: "Aladdin", correct: false },
             { text: "The Lion King", correct: true },
             { text: "Frozen", correct: true },
@@ -23,7 +23,7 @@ const questions = [
 
 // Get references to HTML elements by their IDs//
 const questionElement = document.getElementById("question");
-const anwserButtonsElement = document.getElementById("answer-buttons");
+const answerButtonsElement = document.getElementById("answer-buttons");
 const buttonNextElement = document.getElementById("button_next");
 
 // Initialize variables to track quiz state //
