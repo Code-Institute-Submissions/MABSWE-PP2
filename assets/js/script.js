@@ -4,10 +4,10 @@ const questions = [
     {
         question: "What is the name of the main character in Finding Nemo?",
         anwsers: [
-            { text: "Marlin", correct: false },
-            { text: "Dory", correct: false },
-            { text: "Nemo", correct: true },
-            { text: "Bruce", correct: false },
+            { text: "Marlin", correct: false},
+            { text: "Dory", correct: false},
+            { text: "Nemo", correct: true},
+            { text: "Bruce", correct: false},
         ]
     },
     {
@@ -23,7 +23,7 @@ const questions = [
 
 // Get references to HTML elements by their IDs//
 const questionElement = document.getElementById("question");
-const anwserButtonsElement = document.getElementById("anwser-buttons");
+const anwserButtonsElement = document.getElementById("answer-buttons");
 const buttonNextElement = document.getElementById("button_next");
 
 // Initialize variables to track quiz state //
@@ -31,7 +31,7 @@ let currentQuestionIndex = 0;
 let score = 0;
 
 // Function to start the quiz//
-function startQuiz() {
+function startQuiz(){
     currentQuestionIndex = 0;
     score = 0;
     nextButton.innerHTML = "Next";
@@ -50,7 +50,8 @@ function showQuestion(){
         const button = document.createElement("button");
         button.innerHTML = answer.text;
         button.classList.add("button");
-        anwserButtonsElement.appendChild(button);
+        answerButton.appendChild(button);
     });
 
 }
+startQuiz();
