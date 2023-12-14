@@ -23,8 +23,8 @@ const questions = [
 
 // Get references to HTML elements by their IDs//
 const questionElement = document.getElementById("question");
-const answerButtonsElement = document.getElementById("answer-buttons");
-const buttonNextElement = document.getElementById("button_next");
+const answerButton = document.getElementById("answer-buttons");
+const nextButton = document.getElementById("button_next");
 
 // Initialize variables to track quiz state //
 let currentQuestionIndex = 0;
@@ -42,8 +42,7 @@ function startQuiz(){
 function showQuestion(){
     let currentQuestion = questions[currentQuestionIndex];
     let questionNo = currentQuestionIndex + 1;
-    questionElement.innerHTML = questionNo + ". " + currentQuestion.
-    question;
+    questionElement.innerHTML = questionNo + ". " + currentQuestion.question;
 
 // Create and display buttons for answer options //
     currentQuestion.answers.forEach(answer => {
@@ -54,4 +53,5 @@ function showQuestion(){
     });
 
 }
+
 startQuiz();
