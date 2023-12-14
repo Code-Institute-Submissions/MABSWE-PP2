@@ -62,4 +62,6 @@ function resetState(){
         answerButtons.removeChild(answerButtons.firstChild);
     }
 }
+
+
 startQuiz();
