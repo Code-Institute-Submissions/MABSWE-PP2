@@ -88,9 +88,10 @@ function selectAnswer(e){
 
 
 }
-
+// Score System //
 function showScore(){
     resetState();
+    questionElement.innerHTML = `Your Score Is ${score} Out Of ${questions.length}!`;
 }
 
 function handleNextButton(){
