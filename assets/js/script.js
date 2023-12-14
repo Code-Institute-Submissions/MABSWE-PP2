@@ -88,4 +88,13 @@ function selectAnswer(e){
 
 
 }
+
+nextButton.addEventListener("click", ()=>{
+    if(currentQuestionIndex < questions.length){
+        handleNextButton();
+    }else{
+        startQuiz();
+    }
+
+});
 startQuiz();
