@@ -15,7 +15,7 @@ const questions = [
         answers: [
             { text: "Aladdin", correct: false },
             { text: "The Lion King", correct: true },
-            { text: "Frozen", correct: true },
+            { text: "Frozen", correct: false },
             { text: "Moana", correct: false },
         ]
     }
