@@ -200,6 +200,7 @@ function startQuiz(){
     nextButton.innerHTML = "Next";
     showQuestion();
 }
+
 // Displays quiz questions, starting from the first question//
 
 function showQuestion(){
@@ -278,6 +279,7 @@ nextButton.addEventListener("click", ()=>{
     }else{
         startQuiz();
     }
+
 
 });
 startQuiz();
