@@ -189,17 +189,17 @@ const questionElement = document.getElementById("question");
 const answerButtons = document.getElementById("answer-buttons");
 const nextButton = document.getElementById("button_next");
 
+
 // Initialize variables to track quiz state //
 let currentQuestionIndex = 0;
 let score = 0;
 
+
 // Function to start the quiz//
-function startQuiz(){
     currentQuestionIndex = 0;
     score = 0;
     nextButton.innerHTML = "Next";
     showQuestion();
-}
 
 // Displays quiz questions, starting from the first question//
 
