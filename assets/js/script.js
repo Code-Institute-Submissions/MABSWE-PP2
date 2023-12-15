@@ -201,11 +201,20 @@ let score = 0;
 
 
 // Function to start the quiz//
+function startQuiz() {
+    const username = usernameInput.value.trim();
+
+      // Check if a username is entered //
+      if (username === "") {
+        alert("Please enter your username.");
+        return;
+    }
+
     currentQuestionIndex = 0;
     score = 0;
     nextButton.innerHTML = "Next";
     showQuestion();
-
+}
 // Displays quiz questions, starting from the first question//
 
 function showQuestion(){
