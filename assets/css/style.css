@@ -68,6 +68,8 @@ body {
 .incorrect{
     background: red;
 }
+
+/* Welcome Page */
 .welcome-page{
     background: #fff;
     width: 90%;
@@ -75,6 +77,7 @@ body {
     margin: 100px auto 0;
     border-radius: 10px;
     padding: 30px;
+    text-align: center;
 }
 .username-display{
     text-align: center;
