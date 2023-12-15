@@ -88,6 +88,9 @@ body {
     padding: 30px;
     text-align: center;
 }
+.welcome-page h1{
+    font-size: 70px;
+}
 .username-display{
     text-align: center;
     margin: 30px
