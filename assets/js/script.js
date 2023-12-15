@@ -188,6 +188,11 @@ const questions = [
 const questionElement = document.getElementById("question");
 const answerButtons = document.getElementById("answer-buttons");
 const nextButton = document.getElementById("button_next");
+const welcomePage = document.querySelector(".welcome-page");
+const startQuizButton = document.getElementById("start-quiz-button");
+const usernameInput = document.getElementById("username");
+const app = document.querySelector(".app");
+const usernameDisplay = document.getElementById("username-display");
 
 
 // Initialize variables to track quiz state //
