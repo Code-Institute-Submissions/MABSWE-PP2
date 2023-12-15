@@ -93,6 +93,13 @@ body {
     margin: 30px
 }
 
+#username{
+    margin: 10px;
+    width: 40%;
+    max-width: 500px;
+    min-width: 165px;
+}
+
 
 /* Media for mobile screens */
 @media (max-width: 768px) {
