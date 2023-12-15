@@ -209,12 +209,17 @@ function startQuiz() {
         alert("Please enter your username.");
         return;
     }
+    welcomePage.style.display = "none";
+    app.style.display = "block";
+    usernameDisplay.textContent = `Welcome, ${username}!`;
 
     currentQuestionIndex = 0;
     score = 0;
     nextButton.innerHTML = "Next";
     showQuestion();
 }
+
+startQuizButton.addEventListener("click", startQuiz);
 // Displays quiz questions, starting from the first question//
 
 function showQuestion(){
