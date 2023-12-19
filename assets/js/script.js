@@ -219,6 +219,8 @@ function startQuiz() {
     showQuestion();
 }
 
+
+
 startQuizButton.addEventListener("click", startQuiz);
 // Displays quiz questions, starting from the first question//
 
