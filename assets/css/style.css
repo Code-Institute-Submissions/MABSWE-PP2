@@ -120,6 +120,13 @@ body {
     width: 100%;
   }
 
+  .fa-brands{
+    margin-right: 13px;
+  }
+  .footer p{
+    margin-bottom: 10px;
+  }
+
 
 /* Media for mobile screens */
 @media (max-width: 768px) {
