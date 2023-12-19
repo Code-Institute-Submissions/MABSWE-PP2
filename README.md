@@ -89,10 +89,14 @@ The goal of "Movie Quiz Time!" is to create an engaging and educational experien
 Fonts for the website were selected from Google Fonts. The font used for the title, "MOVIE QUIZ TIME!" is 'Bungee Spice', while the text throughout the website is styled with the 'Comfortaa' font
 
 ### Icons
-Icons for the website were sourced from FontAwesome. The icons used include the GitHub icon for linking to the GitHub repository, the LinkedIn icon for linking to the developer's LinkedIn profile, and the mail icon for potential email contact or communication
+Icons for the website were sourced from FontAwesome. The icons used include the LinkedIn icon for linking to the developer's LinkedIn profile, the mail icon for potential email contact or communication and the GitHub icon for linking to the GitHub repository
 
 ![Screenshot](assets/images/icons.jpg)
 
+### Sound Effects
+Sound effects have been incorporated into the project to enhance the user experience. These sound effects aim to make the quiz more interactive and enjoyable, providing auditory feedback that complements the visual aspects of the game.Two distinct sounds are used:
+- Correct Sound: A sound effect is triggered when a user selects the correct answer in the quiz. This sound serves as positive reinforcement and feedback for the player, creating an engaging and rewarding experience
+- Wrong Sound: When a user selects an incorrect answer, a different sound effect is played. This helps users immediately recognize their mistake and adds an element of challenge to the quiz
 
 ### Structure
 The website's structure is designed to provide a seamless and engaging experience for users. It follows a clear hierarchy and organization:
