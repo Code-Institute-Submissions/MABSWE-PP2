@@ -84,6 +84,22 @@ The goal of "Movie Quiz Time!" is to create an engaging and educational experien
 5. I aspire to expand the user base and explore opportunities for monetization while maintaining a user-friendly environment
 6. I aim to grow the user community and investigate revenue possibilities while ensuring a user-friendly atmosphere is upheld
 
+## Design
+### Fonts
+Fonts for the website were selected from Google Fonts. The font used for the title, "MOVIE QUIZ TIME!" is 'Bungee Spice', while the text throughout the website is styled with the 'Comfortaa' font
+
+### Icons
+Icons for the website were sourced from FontAwesome. The icons used include the GitHub icon for linking to the GitHub repository, the LinkedIn icon for linking to the developer's LinkedIn profile, and the mail icon for potential email contact or communication
+
+![Screenshot](assets/images/icons.jpg)
+
+
+### Structure
+The website's structure is designed to provide a seamless and engaging experience for users. It follows a clear hierarchy and organization:
+- Welcome Page: Users are greeted with a welcoming and visually appealing page that introduces them to the quiz. They can enter their username and start the quiz from here
+- Quiz Interface: The main section of the website is dedicated to the quiz interface. It features the quiz questions, answer options, and navigation buttons, ensuring a straightforward and immersive experience
+- Username Display: A personalized touch is added with a display of the user's entered username, creating a sense of connection
+- Footer: The footer provides essential information about the developer and includes social media icons for further engagement
 
 
 
