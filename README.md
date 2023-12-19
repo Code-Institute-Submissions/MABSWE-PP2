@@ -43,14 +43,17 @@ Welcome to "Movie Quiz Time!", a thrilling and interactive game designed for Hol
 
 ## Project Goals
 The goal of "Movie Quiz Time!" is to create an engaging and educational experience for movie enthusiasts. It aims to blend fun with learning, offering a platform for users to test their knowledge of Hollywood cinema. The project also focuses on showcasing technical skills in web development, ensuring a seamless and user-friendly interface
+
 ### User Goals
 - Dive into enjoyable and thrilling game that's simple to comprehend
 - Assess the players' depth of knowledge when it comes to movies, putting their expertise and familiarity with cinematic trivia to the test
+
 ### Site Owner Goals
 - Create an enjoyable, educational movie quiz experience
 - Showcase web development skills in responsive design
 - Establish an uncomplicated website navigation system
 - Ensure the website is completely responsive and accessible to all users
+
 ## User Experience
 ### Target Audience
 - For individuals who have an affinity for quizzes
@@ -64,3 +67,23 @@ The goal of "Movie Quiz Time!" is to create an engaging and educational experien
 - Responsive website for different screens
 - Relevant and interesting movie questions
 - Clear and easy-to-use navigation
+
+## User Stories
+### Site User
+1. I want to test my knowledge and challenge myself with entertaining movie quizzes
+2. I expect a user-friendly interface that allows me to easily navigate and enjoy the game
+3. I appreciate personalized features like welcome messages that make me feel engaged
+4. I want the website to work seamlessly on my smartphone and other devices for on-the-go entertainment
+5. I look forward to discovering interesting facts about movies and actors while playing the quiz
+
+### Site Owner:
+1. I aim to create an engaging and educational movie quiz experience
+2. I want to showcase my technical proficiency in web development by delivering a responsive and visually appealing website
+3. I aim to foster user interaction and a sense of community through personalized features
+4. I value user feedback and plan to continuously improve the quiz based on suggestions
+5. I aspire to expand the user base and explore opportunities for monetization while maintaining a user-friendly environment
+6. I aim to grow the user community and investigate revenue possibilities while ensuring a user-friendly atmosphere is upheld
+
+
+
+
