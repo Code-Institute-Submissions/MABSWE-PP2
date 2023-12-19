@@ -42,8 +42,17 @@ Welcome to "Movie Quiz Time!", a thrilling and interactive game designed for Hol
   - [Acknowledgements](#acknowledgements)
 
 ## Project Goals
-The goal of "Movie Quiz Time!" is to create an engaging and educational experience for movie enthusiasts. It aims to blend fun with learning, offering a platform for users to test their knowledge of Hollywood cinema. The project also focuses on showcasing technical skills in web development, ensuring a seamless and user-friendly interface.
+The goal of "Movie Quiz Time!" is to create an engaging and educational experience for movie enthusiasts. It aims to blend fun with learning, offering a platform for users to test their knowledge of Hollywood cinema. The project also focuses on showcasing technical skills in web development, ensuring a seamless and user-friendly interface
 ### User Goals
-Users dive into "Movie Quiz Time!" seeking a thrilling blend of entertainment and movie trivia. It's the perfect digital arena for cinema buffs to challenge their film knowledge and indulge their passion for Hollywood in an exhilarating quiz format.
+- Dive into enjoyable and thrilling game that's simple to comprehend
+- Assess the players' depth of knowledge when it comes to movies, putting their expertise and familiarity with cinematic trivia to the test
 ### Site Owner Goals
-The goal is to make "Movie Quiz Time!" a favorite spot for movie fans. We want to offer fun quizzes that are easy to play and bring movie lovers together, all through a website that's enjoyable and simple to use.
+- Create an enjoyable, educational movie quiz experience
+- Showcase web development skills in responsive design
+- Establish an uncomplicated website navigation system
+- Ensure the website is completely responsive and accessible to all users
+## User Experience
+### Target Audience
+- For individuals who have an affinity for quizzes
+- For those who prefer the simplicity and ease of playing a game
+### User Requirements and Expectations
