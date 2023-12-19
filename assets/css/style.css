@@ -127,6 +127,11 @@ body {
     margin-bottom: 10px;
   }
 
+.social-links{
+    justify-content: space-around;
+    display: flex;
+}
+
 
 /* Media for mobile screens */
 @media (max-width: 768px) {
