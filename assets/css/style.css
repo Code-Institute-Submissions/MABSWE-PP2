@@ -12,9 +12,11 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    overflow: hidden;
 }
-
+/* Hide scrollbar */
+.example::-webkit-scrollbar {
+    display: none;
+  }
 .app {
     background: #fff;
     width: 90%;
