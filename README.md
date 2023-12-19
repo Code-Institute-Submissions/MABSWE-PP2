@@ -56,3 +56,11 @@ The goal of "Movie Quiz Time!" is to create an engaging and educational experien
 - For individuals who have an affinity for quizzes
 - For those who prefer the simplicity and ease of playing a game
 ### User Requirements and Expectations
+- Enjoyable quiz experience
+- Simplicity and user-friendliness
+- Engaging movie-related content
+- Fun and educational quizzes
+- Intuitive and straightforward design
+- Responsive website for different screens
+- Relevant and interesting movie questions
+- Clear and easy-to-use navigation
