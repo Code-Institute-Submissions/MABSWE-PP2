@@ -82,7 +82,6 @@ The goal of "Movie Quiz Time!" is to create an engaging and educational experien
 8. I aim to foster user interaction and a sense of community through personalized features
 9. I value user feedback and plan to continuously improve the quiz based on suggestions
 10. I aspire to expand the user base and explore opportunities for monetization while maintaining a user-friendly environment
-11. I aim to grow the user community and investigate revenue possibilities while ensuring a user-friendly atmosphere is upheld
 
 ## Design
 ### Fonts
@@ -140,33 +139,64 @@ The website's structure is designed to provide a seamless and engaging experienc
 ### Home Screen
 The Website has three pages and are described below
 #### Title
-- The title prominently displays the game's name, "MOVIE QUIZ TIME!", creating a captivating first impression for users
+- The title prominently displays the game's name, "MOVIE QUIZ TIME!". The popup message is displayed, prompting the user to input their username
 <details><summary>See feature</summary>
 <img src="docs/features/title.jpg">
 </details>
 
+- User stories covered: 3
+
 #### Username Input
-- Users are prompted to enter their username, which personalizes the experience and allows for a more engaging interaction
+- Users are prompted to enter their username.
+- The username will be displayed on all the screens thereafter
 <details><summary>See feature</summary>
 <img src="docs/features/username.jpg">
 </details>
 
+- User stories covered: 7
+
 ### Game Screen
-- When a user selects the correct answer, a visual and auditory effect is triggered, providing feedback and reinforcing their success
+- When a user selects the correct answer, a visual and auditory effect is triggered, providing feedback and reinforcing their success.Elements displayd on the screen:
+
 <details><summary>See feature</summary>
 <img src="docs/features/gamescreen.jpg">
 </details>
 
 #### Correct Effect
-- If a user selects the correct answer, a visual and auditory effect is triggered, signaling that the answer was correct by changing color to green
+- If a user selects the correct answer, a visual and auditory effect is triggered, signaling that the answer was correct by changing color to green. Elements displayd on the screen:
+    - Title: "MOVIE QUIZ TIME!"
+    - Username input field
+    - Start quiz button
+    - Quiz question
+    - Answer options (buttons)
+    - Next button
+    - Username display
+    - Correct answer effect
+    - Wrong answer effect
+    - Footer information
 <details><summary>See feature</summary>
 <img src="docs/features/correct.jpg">
 </details>
 
 #### Wrong Effect
-- If a user selects the wrong answer, a visual and auditory effect is triggered, signaling that the answer was incorrect by changing color to red
+- If a user selects the wrong answer, a visual and auditory effect is triggered, signaling that the answer was incorrect by changing color to red. Elements displayd on the screen:
+    - Username input field
+    - Start quiz button
+    - Quiz question
+    - Answer options (buttons)
+    - Next button
+    - Username display
+    - Correct answer effect
+    - Wrong answer effect
+    - Footer information
+    - Red background highlight
+    - Auditory feedback (wrong sound effect)
+    - Visual feedback to mark correct selection
 <details><summary>See feature</summary>
 <img src="docs/features/wrong.jpg">
 </details>
 
+#### Result Screen
+    - Final score display
+    - Play again button (button)
 ### Footer
