@@ -242,6 +242,10 @@ In addition to HTML validation, the CSS code was also examined for validation. F
 </details>
 
 ### JavaScript Validation
+The JSHint JS Validation Service was employed to inspect the JavaScript files, and the evaluation revealed no significant issues or problems
+<details><summary>See feature</summary>
+<img src="docs/validation/js-val.jpg">
+</details>
 
 ### Accessibility
 
