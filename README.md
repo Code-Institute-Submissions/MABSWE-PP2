@@ -227,6 +227,10 @@ The Website has three pages and are described below
 ## Validation
 
 ### HTML Validation
+The website's HTML was validated using the W3C Markup Validation Service, and all pages successfully passed without any errors
+<details><summary>See feature</summary>
+<img src="docs/validation/html-val.jpg">
+</details>
 
 ### CSS Validation
 
