@@ -122,4 +122,17 @@ The website's structure is designed to provide a seamless and engaging experienc
 - CSS
 - JavaScript
 
+## Frameworks, Libraries & Tools
+- [Am I Responsive](https://ui.dev/amiresponsive): A responsive web design testing tool to visualize how the website appears on various devices
+- [Balsamiq](https://balsamiq.com/): A wireframing tool used for designing the website's layout and structure
+- [Favicon.io](https://favicon.io/): A favicon generator to create custom favicons for the website
+- [FontAwesome](https://fontawesome.com/): For including icons such as GitHub, LinkedIn, and mail icons
+- [GitHub](https://github.com/): A version control platform for code collaboration and hosting the project repository
+- [Google Fonts](https://fonts.google.com/): To source and apply custom fonts for typography
+- [JSHint](https://jshint.com/): A tool that detects errors and potential problems in JavaScript code
+- [Jigsaw W3 Validator](https://jigsaw.w3.org/css-validator/): A CSS validation service by W3C for checking CSS code validity
+- [Mixkit](https://mixkit.co/): A resource for sound effects used to enhance the website's interactivity
+- [VSCode](https://code.visualstudio.com/): Visual Studio Code, a code editor used for development
+- [WC3 Validator](https://validator.w3.org/): The World Wide Web Consortium's Markup Validation Service for checking HTML validity
+
 
