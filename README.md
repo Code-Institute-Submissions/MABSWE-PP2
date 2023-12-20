@@ -18,10 +18,11 @@ Welcome to "Movie Quiz Time!", a thrilling and interactive game designed for Hol
     - [Site User](#site-user)
     - [Site Owner](#site-owner)
   - [Design](#design)
-    - [Colour Scheme](#colour-scheme)
     - [Fonts](#fonts)
+    - [Icons](#icons)
+    - [Sound Effects](#sound-effects)
     - [Structure](#structure)
-    - [Wireframes](#wireframes)
+  - [Wireframes](#wireframes)
   - [Technologies Used](#technologies-used)
     - [Languages](#languages)
     - [Frameworks, Libraries & Tools](#frameworks-libraries--tools)
@@ -116,12 +117,14 @@ The website's structure is designed to provide a seamless and engaging experienc
 <img src="docs/wireframes/wireframe-small.jpg">
 </details>
 
-## Languages
+## Technologies Used
+
+### Languages
 - HTML
 - CSS
 - JavaScript
 
-## Frameworks, Libraries & Tools
+### Frameworks, Libraries & Tools
 - [Am I Responsive](https://ui.dev/amiresponsive): A responsive web design testing tool to visualize how the website appears on various devices
 - [Balsamiq](https://balsamiq.com/): A wireframing tool used for designing the website's layout and structure
 - [Favicon.io](https://favicon.io/): A favicon generator to create custom favicons for the website
@@ -203,4 +206,5 @@ The Website has three pages and are described below
 <details><summary>See feature</summary>
 <img src="docs/features/result.jpg">
 </details>
+
 ### Footer
