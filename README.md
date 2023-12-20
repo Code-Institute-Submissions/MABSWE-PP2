@@ -107,6 +107,14 @@ The website's structure is designed to provide a seamless and engaging experienc
 
 ## Wireframes
 
-
+<details><summary>Big screens - laptop & desktop</summary>
+<img src="docs/wireframes/wireframe-big.jpg">
+</details>
+<details><summary>Medium screens - tablets</summary>
+<img src="docs/wireframes/wireframe-medium.jpg">
+</details>
+<details><summary>Small screens - mobile</summary>
+<img src="docs/wireframes/wireframe-small.jpg">
+</details>
 
 
