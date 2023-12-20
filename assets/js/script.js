@@ -4,10 +4,10 @@ const questions = [
     {
         question: "What is the name of the main character in Finding Nemo?",
         answers: [
-            { text: "Marlin", correct: false},
-            { text: "Dory", correct: false},
-            { text: "Nemo", correct: true},
-            { text: "Bruce", correct: false},
+            { text: "Marlin", correct: false },
+            { text: "Dory", correct: false },
+            { text: "Nemo", correct: true },
+            { text: "Bruce", correct: false },
         ]
     },
     {
@@ -18,7 +18,7 @@ const questions = [
             { text: "Frozen", correct: false },
             { text: "Moana", correct: false },
         ]
-        
+
     },
     {
         question: "Who played the iconic character Jack Dawson in Titanic?",
@@ -204,8 +204,8 @@ let score = 0;
 function startQuiz() {
     const username = usernameInput.value.trim();
 
-      // Check if a username is entered //
-      if (username === "") {
+    // Check if a username is entered //
+    if (username === "") {
         alert("Please enter your username.");
         return;
     }
@@ -224,20 +224,20 @@ function startQuiz() {
 startQuizButton.addEventListener("click", startQuiz);
 // Displays quiz questions, starting from the first question//
 
-function showQuestion(){
+function showQuestion() {
     resetState();
     let currentQuestion = questions[currentQuestionIndex];
     let questionNo = currentQuestionIndex + 1;
     questionElement.innerHTML = questionNo + ". " + currentQuestion.question;
 
-// Create and display buttons for answer options //
+    // Create and display buttons for answer options //
     currentQuestion.answers.forEach(answer => {
         const button = document.createElement("button");
         button.innerHTML = answer.text;
         button.classList.add("button");
         answerButtons.appendChild(button);
-        
-        if(answer.correct){
+
+        if (answer.correct) {
             button.dataset.correct = answer.correct;
         }
         button.addEventListener("click", selectAnswer);
@@ -247,27 +247,27 @@ function showQuestion(){
 }
 
 // Resets the state by hiding the "Next" button and removing answer buttons //
-function resetState(){
+function resetState() {
     nextButton.style.display = "none";
-    while(answerButtons.firstChild){
+    while (answerButtons.firstChild) {
         answerButtons.removeChild(answerButtons.firstChild);
     }
 }
-function selectAnswer(e){
+function selectAnswer(e) {
 
     const selectedBtn = e.target;
     const isCorrect = selectedBtn.dataset.correct === "true";
 
-    if(isCorrect){
+    if (isCorrect) {
         selectedBtn.classList.add("correct");
         score++;
         document.getElementById("correct-sound").play();
-    }else{
+    } else {
         selectedBtn.classList.add("incorrect");
         document.getElementById("wrong-sound").play();
     }
     Array.from(answerButtons.children).forEach(button => {
-        if(button.dataset.correct === "true"){
+        if (button.dataset.correct === "true") {
             button.classList.add("correct");
         }
         button.disabled = true;
@@ -277,7 +277,7 @@ function selectAnswer(e){
 
 }
 // Score System //
-function showScore(){
+function showScore() {
     resetState();
     questionElement.innerHTML = `Your Score Is ${score} Out Of ${questions.length}!`;
 
@@ -285,19 +285,19 @@ function showScore(){
     nextButton.style.display = "block";
 }
 
-function handleNextButton(){
+function handleNextButton() {
     currentQuestionIndex++;
-    if(currentQuestionIndex < questions.length){
+    if (currentQuestionIndex < questions.length) {
         showQuestion();
-    }else{
+    } else {
         showScore();
     }
 }
 
-nextButton.addEventListener("click", ()=>{
-    if(currentQuestionIndex < questions.length){
+nextButton.addEventListener("click", () => {
+    if (currentQuestionIndex < questions.length) {
         handleNextButton();
-    }else{
+    } else {
         startQuiz();
     }
 

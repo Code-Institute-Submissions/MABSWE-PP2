@@ -223,3 +223,15 @@ The Website has three pages and are described below
 </details>
 
 - User stories covered: 9
+
+## Validation
+
+### HTML Validation
+
+### CSS Validation
+
+### JavaScript Validation
+
+### Accessibility
+
+### Performance

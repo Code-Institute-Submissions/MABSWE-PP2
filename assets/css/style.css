@@ -17,7 +17,8 @@ body {
 /* Hide scrollbar */
 .example::-webkit-scrollbar {
     display: none;
-  }
+}
+
 .app {
     background: #fff;
     width: 90%;
@@ -33,7 +34,7 @@ body {
     font-family: sans-serif;
 }
 
-    /*Quiz Headings*/
+/*Quiz Headings*/
 .quiz {
     padding: 30px 0;
 }
@@ -42,8 +43,9 @@ body {
     color: rgb(32, 11, 11);
     text-align: center;
 }
-    /*Buttons*/
-.button{
+
+/*Buttons*/
+.button {
     background-color: rgb(204, 188, 141);
     width: 100%;
     padding: 10px;
@@ -52,14 +54,16 @@ body {
     transition: all 0.2s;
     border-radius: 5px;
 }
-.button:hover:not([disabled]){
+
+.button:hover:not([disabled]) {
     background: rgb(214, 214, 214);
 }
-.button:disabled{
+
+.button:disabled {
     cursor: no-drop;
 }
 
-#button_next{
+#button_next {
     background: rgb(216, 184, 5);
     width: 100px;
     cursor: pointer;
@@ -67,14 +71,16 @@ body {
     margin: 10px auto 0;
     border-radius: 5px;
 }
-.correct{
+
+.correct {
     background: green;
 }
-.incorrect{
+
+.incorrect {
     background: red;
 }
 
-#start-quiz-button{
+#start-quiz-button {
     width: 100px;
     cursor: pointer;
     padding: 10px;
@@ -84,7 +90,7 @@ body {
 }
 
 /* Welcome Page */
-.welcome-page{
+.welcome-page {
     background: #fff;
     width: 90%;
     max-width: 600px;
@@ -94,15 +100,17 @@ body {
     padding: 30px;
     text-align: center;
 }
-.welcome-page h1{
+
+.welcome-page h1 {
     font-size: 70px;
 }
-.username-display{
+
+.username-display {
     text-align: center;
     margin: 30px
 }
 
-#username{
+#username {
     margin: 10px;
     width: 40%;
     max-width: 500px;
@@ -118,16 +126,17 @@ body {
     bottom: 0;
     left: 0;
     width: 100%;
-  }
+}
 
-  .fa-brands{
+.fa-brands {
     margin-right: 13px;
-  }
-  .footer p{
-    margin-bottom: 10px;
-  }
+}
 
-.social-links{
+.footer p {
+    margin-bottom: 10px;
+}
+
+.social-links {
     justify-content: space-around;
     display: flex;
 }
