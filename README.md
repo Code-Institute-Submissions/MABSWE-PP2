@@ -77,12 +77,12 @@ The goal of "Movie Quiz Time!" is to create an engaging and educational experien
 5. I look forward to discovering interesting facts about movies and actors while playing the quiz
 
 ### Site Owner:
-1. I aim to create an engaging and educational movie quiz experience
-2. I want to showcase my technical proficiency in web development by delivering a responsive and visually appealing website
-3. I aim to foster user interaction and a sense of community through personalized features
-4. I value user feedback and plan to continuously improve the quiz based on suggestions
-5. I aspire to expand the user base and explore opportunities for monetization while maintaining a user-friendly environment
-6. I aim to grow the user community and investigate revenue possibilities while ensuring a user-friendly atmosphere is upheld
+6. I aim to create an engaging and educational movie quiz experience
+7. I want to showcase my technical proficiency in web development by delivering a responsive and visually appealing website
+8. I aim to foster user interaction and a sense of community through personalized features
+9. I value user feedback and plan to continuously improve the quiz based on suggestions
+10. I aspire to expand the user base and explore opportunities for monetization while maintaining a user-friendly environment
+11. I aim to grow the user community and investigate revenue possibilities while ensuring a user-friendly atmosphere is upheld
 
 ## Design
 ### Fonts
@@ -152,6 +152,21 @@ The Website has three pages and are described below
 </details>
 
 ### Game Screen
+- When a user selects the correct answer, a visual and auditory effect is triggered, providing feedback and reinforcing their success
+<details><summary>See feature</summary>
+<img src="docs/features/gamescreen.jpg">
+</details>
+
 #### Correct Effect
+- If a user selects the correct answer, a visual and auditory effect is triggered, signaling that the answer was correct by changing color to green
+<details><summary>See feature</summary>
+<img src="docs/features/correct.jpg">
+</details>
+
 #### Wrong Effect
+- If a user selects the wrong answer, a visual and auditory effect is triggered, signaling that the answer was incorrect by changing color to red
+<details><summary>See feature</summary>
+<img src="docs/features/wrong.jpg">
+</details>
+
 ### Footer
