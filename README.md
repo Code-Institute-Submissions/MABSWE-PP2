@@ -233,6 +233,13 @@ The website's HTML was validated using the W3C Markup Validation Service, and al
 </details>
 
 ### CSS Validation
+In addition to HTML validation, the CSS code was also examined for validation. Fortunately, there were no errors discovered, except for a single warning message stating: "::-webkit-scrollbar is not a recognized name for a vendor-specific pseudo-element."
+<details><summary>See feature</summary>
+<img src="docs/validation/css-val.jpg">
+</details>
+<details><summary>See warning</summary>
+<img src="docs/validation/css-val2.jpg">
+</details>
 
 ### JavaScript Validation
 
