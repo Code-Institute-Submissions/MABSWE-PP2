@@ -250,3 +250,7 @@ The JSHint JS Validation Service was employed to inspect the JavaScript files, a
 ### Accessibility
 
 ### Performance
+Google Lighthouse, a component of Google Chrome Developer Tools, was utilized to assess the website's performance
+<details><summary>See feature</summary>
+<img src="docs/validation/light.h-val.jpg">
+</details>
