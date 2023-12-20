@@ -117,4 +117,9 @@ The website's structure is designed to provide a seamless and engaging experienc
 <img src="docs/wireframes/wireframe-small.jpg">
 </details>
 
+## Languages
+- HTML
+- CSS
+- JavaScript
+
 
