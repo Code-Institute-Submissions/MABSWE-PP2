@@ -146,6 +146,11 @@ The Website has three pages and are described below
 </details>
 
 #### Username Input
+- Users are prompted to enter their username, which personalizes the experience and allows for a more engaging interaction
+<details><summary>See feature</summary>
+<img src="docs/features/username.jpg">
+</details>
+
 ### Game Screen
 #### Correct Effect
 #### Wrong Effect
