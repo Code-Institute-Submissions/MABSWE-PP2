@@ -197,6 +197,10 @@ The Website has three pages and are described below
 </details>
 
 #### Result Screen
+-  Shows the user's score out of the total number of questions answered correctly, providing feedback on their performance in the quiz. Elements displayd on the screen:
     - Final score display
     - Play again button (button)
+<details><summary>See feature</summary>
+<img src="docs/features/result.jpg">
+</details>
 ### Footer
