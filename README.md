@@ -135,4 +135,18 @@ The website's structure is designed to provide a seamless and engaging experienc
 - [VSCode](https://code.visualstudio.com/): Visual Studio Code, a code editor used for development
 - [WC3 Validator](https://validator.w3.org/): The World Wide Web Consortium's Markup Validation Service for checking HTML validity
 
+## Features
 
+### Home Screen
+The Website has three pages and are described below
+#### Title
+- The title prominently displays the game's name, "MOVIE QUIZ TIME!", creating a captivating first impression for users
+<details><summary>See feature</summary>
+<img src="docs/features/title.jpg">
+</details>
+
+#### Username Input
+### Game Screen
+#### Correct Effect
+#### Wrong Effect
+### Footer
