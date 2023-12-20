@@ -105,5 +105,8 @@ The website's structure is designed to provide a seamless and engaging experienc
 - Username Display: A personalized touch is added with a display of the user's entered username, creating a sense of connection
 - Footer: The footer provides essential information about the developer and includes social media icons for further engagement
 
+## Wireframes
+
+
 
 
