@@ -74,15 +74,15 @@ The goal of "Movie Quiz Time!" is to create an engaging and educational experien
 1. I want to test my knowledge and challenge myself with entertaining movie quizzes
 2. I expect a user-friendly interface that allows me to easily navigate and enjoy the game
 3. I appreciate personalized features like welcome messages that make me feel engaged
-4. I want the website to work seamlessly on my smartphone and other devices for on-the-go entertainment
+4. I want to see the result of the correct answer, whenever I guess the wrong answer
 5. I look forward to discovering interesting facts about movies and actors while playing the quiz
 
 ### Site Owner:
 6. I aim to create an engaging and educational movie quiz experience
-7. I want to showcase my technical proficiency in web development by delivering a responsive and visually appealing website
-8. I aim to foster user interaction and a sense of community through personalized features
-9. I value user feedback and plan to continuously improve the quiz based on suggestions
-10. I aspire to expand the user base and explore opportunities for monetization while maintaining a user-friendly environment
+7. I want to be able to play the game on desktop, tablet and mobile devices
+8. I want to get result of my correct answers so I can know how good my skill is
+9. I want to get in touch with the developer
+10. I want to add a username so that the game is more engaging and personalized
 
 ## Design
 ### Fonts
@@ -156,7 +156,7 @@ The Website has three pages and are described below
 <img src="docs/features/username.jpg">
 </details>
 
-- User stories covered: 7
+- User stories covered: 10
 
 ### Game Screen
 - When a user selects the correct answer, a visual and auditory effect is triggered, providing feedback and reinforcing their success.Elements displayd on the screen:
@@ -164,6 +164,8 @@ The Website has three pages and are described below
 <details><summary>See feature</summary>
 <img src="docs/features/gamescreen.jpg">
 </details>
+
+- User stories covered: 1, 2
 
 #### Correct Effect
 - If a user selects the correct answer, a visual and auditory effect is triggered, signaling that the answer was correct by changing color to green. Elements displayd on the screen:
@@ -180,6 +182,8 @@ The Website has three pages and are described below
 <details><summary>See feature</summary>
 <img src="docs/features/correct.jpg">
 </details>
+
+- User stories covered: 6
 
 #### Wrong Effect
 - If a user selects the wrong answer, a visual and auditory effect is triggered, signaling that the answer was incorrect by changing color to red. Elements displayd on the screen:
@@ -199,6 +203,8 @@ The Website has three pages and are described below
 <img src="docs/features/wrong.jpg">
 </details>
 
+- User stories covered: 4
+
 #### Result Screen
 -  Shows the user's score out of the total number of questions answered correctly, providing feedback on their performance in the quiz. Elements displayd on the screen:
     - Final score display
@@ -207,4 +213,13 @@ The Website has three pages and are described below
 <img src="docs/features/result.jpg">
 </details>
 
+- User stories covered: 8
+
 ### Footer
+- Present across all pages
+- Includes a link to the mail, GitHub page, and Linkedin page (open in separate windows)
+<details><summary>See feature</summary>
+<img src="docs/features/footer.jpg">
+</details>
+
+- User stories covered: 9
