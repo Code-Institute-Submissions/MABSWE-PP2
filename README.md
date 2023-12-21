@@ -255,13 +255,19 @@ Google Lighthouse, a component of Google Chrome Developer Tools, was utilized to
 </details>
 
 ## Testing
+
 ### Devices
 To ensure that the "Movie Quiz Time" website performs well across a variety of browsers and devices
 
 Test Devices:
-iPhone 14 Pro Max (phone)
-iPad Pro (tablet)
-MacBook Pro 2019 (laptop)
+- iPhone 14 Pro Max (phone)
+- iPad Pro (tablet)
+- MacBook Pro 2019 (laptop)
+
+### Browser compability
+Testing has been carried out on the following browsers:
+- Googe Chrome Version 121.0.6167.14
+- Safari OS Version 17.1
 
 ## Bugs
 
