@@ -269,7 +269,21 @@ Testing has been carried out on the following browsers:
 - Googe Chrome Version 121.0.6167.14
 - Safari OS Version 17.1
 
-## Bugs
+## Bugs & Fixes
+1. **Bug Description**: Incorrect scoring calculation
+   - **Fix**: The scoring algorithm was updated to accurately calculate scores for correct answers
+
+2. **Bug Description**: Inconsistent styling on mobile devices
+   - **Fix**: CSS styles were adjusted to provide a consistent and responsive design across all screen sizes
+
+3. **Bug Description**: Username input validation issue
+   - **Fix**: Improved validation logic to ensure that a valid username is required before starting the quiz
+
+4. **Bug Description**: Incorrect display of question numbers
+   - **Fix**: The logic for displaying the current question number was updated to reflect the correct question count
+
+5. **Bug Description**: Double incorrect alternative answer shows up when choosing wrong answer
+   - **Fix**: Change questions alternative from "true" to "false"
 
 ## Deployment
 The website deployment process using GitHub Pages involved the following steps:
@@ -290,6 +304,6 @@ The website deployment process using GitHub Pages involved the following steps:
 - Web Development Tools: Various web development tools and resources were employed, including Am I Responsive, Balsamiq, Git, GitHub, WC3 Validator, Jigsaw W3 Validator, and websiteplanet for file compression
 
 ## Acknowledgements
-I would like to extend my heartfelt gratitude to my mentor, Mo Shami, for his unwavering support and guidance throughout this project. Mo's expertise and mentorship have been invaluable, and I am truly appreciative of their contributions. Thank you for being an essential part of my journey.
+I would like to extend my heartfelt gratitude to my mentor, Mo Shami, for his unwavering support and guidance throughout this project. Mo's expertise and mentorship have been invaluable, and I am truly appreciative of his contributions.
 
 I would also like to extend my thanks to the Slack community for their support and insights, which have been valuable in the development process.
