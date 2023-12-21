@@ -278,3 +278,4 @@ The website deployment process using GitHub Pages involved the following steps:
 - Web Development Tools: Various web development tools and resources were employed, including Am I Responsive, Balsamiq, Git, GitHub, WC3 Validator, Jigsaw W3 Validator, and websiteplanet for file compression
 
 ## Acknowledgements
+I would like to extend my heartfelt gratitude to my mentor, Mo Shami, for his unwavering support and guidance throughout this project. Mo's expertise and mentorship have been invaluable, and I am truly appreciative of their contributions. Thank you for being an essential part of my journey.
