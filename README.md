@@ -269,5 +269,12 @@ The website deployment process using GitHub Pages involved the following steps:
 5. The link to your published website will appear: "Your site is published at: https://mabswe.github.io/PP2/
 
 ## Credits
+- Sound Effects: Sound effects used in the project were sourced from Mixkit
+- Favicon: The website's favicon was generated using Favicon.io
+- Fonts: The fonts used in the project were obtained from Google Fonts, with the title font named 'Bungee Spice' and the text font named 'Comfortaa'
+- Icons: Icons used in the project were sourced from Font Awesome
+- Validation Services: HTML validation was performed using the W3C Markup Validation Service. CSS validation was checked with no errors, except for one warning regarding '::-webkit-scrollbar', which is a non-standard pseudo-element
+- JavaScript validation was conducted using JSHint
+- Web Development Tools: Various web development tools and resources were employed, including Am I Responsive, Balsamiq, Git, GitHub, WC3 Validator, Jigsaw W3 Validator, and websiteplanet for file compression
 
 ## Acknowledgements
