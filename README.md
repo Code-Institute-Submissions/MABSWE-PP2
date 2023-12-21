@@ -25,7 +25,7 @@ Welcome to "Movie Quiz Time!", a thrilling and interactive game designed for Hol
   - [Wireframes](#wireframes)
   - [Technologies Used](#technologies-used)
     - [Languages](#languages)
-    - [Frameworks, Libraries & Tools](#frameworks-libraries--tools)
+    - [Frameworks, Libraries & Tools](#frameworks-libraries-tools)
   - [Features](#features)
   - [Validation](#validation)
     - [HTML Validation](#html-validation)
@@ -37,7 +37,7 @@ Welcome to "Movie Quiz Time!", a thrilling and interactive game designed for Hol
     - [Performing tests on various devices](#performing-tests-on-various-devices)
     - [Browser compatibility](#browser-compatibility)
     - [Testing user stories](#testing-user-stories)
-  - [Bugs & Fixes](#bugs-&-Fixes)
+  - [Bugs & Fixes](#bugs-&-fixes)
   - [Deployment](#deployment)
   - [Credits](#credits)
   - [Acknowledgements](#acknowledgements)
@@ -136,7 +136,7 @@ The website's structure is designed to provide a seamless and engaging experienc
 - [Mixkit](https://mixkit.co/): A resource for sound effects used to enhance the website's interactivity
 - [VSCode](https://code.visualstudio.com/): Visual Studio Code, a code editor used for development
 - [WC3 Validator](https://validator.w3.org/): The World Wide Web Consortium's Markup Validation Service for checking HTML validity
-- [Lighthouse](https://developers.google.com/web/tools/lighthouse/): Where used to assess the websites performance
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse/): Were used to assess the website's performance
 
 ## Features
 
@@ -160,7 +160,7 @@ The Website has three pages and are described below
 - User stories covered: 10
 
 ### Game Screen
-- When a user selects the correct answer, a visual and auditory effect is triggered, providing feedback and reinforcing their success.Elements displayd on the screen:
+- When a user selects the correct answer, a visual and auditory effect is triggered, providing feedback and reinforcing their success.Elements displayed on the screen:
 
 <details><summary>See feature</summary>
 <img src="docs/features/gamescreen.jpg">
@@ -169,7 +169,7 @@ The Website has three pages and are described below
 - User stories covered: 1, 2
 
 #### Correct Effect
-- If a user selects the correct answer, a visual and auditory effect is triggered, signaling that the answer was correct by changing color to green. Elements displayd on the screen:
+- If a user selects the correct answer, a visual and auditory effect is triggered, signaling that the answer was correct by changing color to green. Elements displayed on the screen:
     - Title: "MOVIE QUIZ TIME!"
     - Username input field
     - Start quiz button
@@ -187,7 +187,7 @@ The Website has three pages and are described below
 - User stories covered: 4
 
 #### Wrong Effect
-- If a user selects the wrong answer, a visual and auditory effect is triggered, signaling that the answer was incorrect by changing color to red. Elements displayd on the screen:
+- If a user selects the wrong answer, a visual and auditory effect is triggered, signaling that the answer was incorrect by changing color to red. Elements displayed on the screen:
     - Username input field
     - Start quiz button
     - Quiz question
@@ -207,9 +207,9 @@ The Website has three pages and are described below
 - User stories covered: 4
 
 #### Result Screen
--  Shows the user's score out of the total number of questions answered correctly, providing feedback on their performance in the quiz. Elements displayd on the screen:
+-  Shows the user's score out of the total number of questions answered correctly, providing feedback on their performance in the quiz. Elements displayed on the screen:
     - Final score display
-    - Play again button (button)
+    - Play again button
 <details><summary>See feature</summary>
 <img src="docs/features/result.jpg">
 </details>
@@ -218,7 +218,7 @@ The Website has three pages and are described below
 
 ### Footer
 - Present across all pages
-- Includes a link to the mail, GitHub page, and Linkedin page (open in separate windows)
+- Includes a link to the mail, GitHub page, and LinkedIn page (open in separate windows)
 <details><summary>See feature</summary>
 <img src="docs/features/footer.jpg">
 </details>
@@ -264,7 +264,7 @@ Test Devices:
 - iPad Pro (tablet)
 - MacBook Pro 2019 (laptop)
 
-### Browser compability
+### Browser compatibility
 Testing has been carried out on the following browsers:
 - Googe Chrome Version 121.0.6167.14
 - Safari OS Version 17.1
