@@ -255,7 +255,13 @@ Google Lighthouse, a component of Google Chrome Developer Tools, was utilized to
 </details>
 
 ## Testing
+### Devices
+To ensure that the "Movie Quiz Time" website performs well across a variety of browsers and devices
 
+Test Devices:
+iPhone 14 Pro Max (phone)
+iPad Pro (tablet)
+MacBook Pro 2019 (laptop)
 
 ## Bugs
 
@@ -279,3 +285,5 @@ The website deployment process using GitHub Pages involved the following steps:
 
 ## Acknowledgements
 I would like to extend my heartfelt gratitude to my mentor, Mo Shami, for his unwavering support and guidance throughout this project. Mo's expertise and mentorship have been invaluable, and I am truly appreciative of their contributions. Thank you for being an essential part of my journey.
+
+I would also like to extend my thanks to the Slack community for their support and insights, which have been valuable in the development process.
