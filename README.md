@@ -76,12 +76,12 @@ The goal of "Movie Quiz Time!" is to create an engaging and educational experien
 3. I appreciate personalized features like welcome messages that make me feel engaged
 4. I want to see the result of the correct answer, whenever I guess the wrong answer
 5. I look forward to discovering interesting facts about movies and actors while playing the quiz
+6. I want to get in touch with the developer
 
 ### Site Owner:
-6. I aim to create an engaging and educational movie quiz experience
-7. I want to be able to play the game on desktop, tablet and mobile devices
-8. I want to get result of my correct answers so I can know how good my skill is
-9. I want to get in touch with the developer
+7. I aim to create an engaging and educational movie quiz experience
+8. I want to be able to play the game on desktop, tablet and mobile devices
+9. I want my game to be fully responsive
 10. I want to add a username so that the game is more engaging and personalized
 
 ## Design
@@ -136,6 +136,7 @@ The website's structure is designed to provide a seamless and engaging experienc
 - [Mixkit](https://mixkit.co/): A resource for sound effects used to enhance the website's interactivity
 - [VSCode](https://code.visualstudio.com/): Visual Studio Code, a code editor used for development
 - [WC3 Validator](https://validator.w3.org/): The World Wide Web Consortium's Markup Validation Service for checking HTML validity
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse/): Where used to assess the websites performance
 
 ## Features
 
@@ -183,7 +184,7 @@ The Website has three pages and are described below
 <img src="docs/features/correct.jpg">
 </details>
 
-- User stories covered: 6
+- User stories covered: 4
 
 #### Wrong Effect
 - If a user selects the wrong answer, a visual and auditory effect is triggered, signaling that the answer was incorrect by changing color to red. Elements displayd on the screen:
@@ -222,7 +223,7 @@ The Website has three pages and are described below
 <img src="docs/features/footer.jpg">
 </details>
 
-- User stories covered: 9
+- User stories covered: 9, 6
 
 ## Validation
 
@@ -247,10 +248,19 @@ The JSHint JS Validation Service was employed to inspect the JavaScript files, a
 <img src="docs/validation/js-val.jpg">
 </details>
 
-### Accessibility
-
 ### Performance
 Google Lighthouse, a component of Google Chrome Developer Tools, was utilized to assess the website's performance
 <details><summary>See feature</summary>
 <img src="docs/validation/light.h-val.jpg">
 </details>
+
+## Testing
+
+
+## Bugs
+
+## Deployment
+
+## Credits
+
+## Acknowledgements
