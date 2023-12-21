@@ -260,6 +260,13 @@ Google Lighthouse, a component of Google Chrome Developer Tools, was utilized to
 ## Bugs
 
 ## Deployment
+The website deployment process using GitHub Pages involved the following steps:
+
+1. In the GitHub repository, go to the Settings tab.
+2. From the left-hand menu, choose Pages.
+3. Under the source settings, select Branch: main.
+4. After saving these settings, GitHub will automatically refresh, and your website will be published from the GitHub repository.
+5. The link to your published website will appear: "Your site is published at: https://mabswe.github.io/PP2/
 
 ## Credits
 
