@@ -37,7 +37,7 @@ Welcome to "Movie Quiz Time!", a thrilling and interactive game designed for Hol
     - [Performing tests on various devices](#performing-tests-on-various-devices)
     - [Browser compatibility](#browser-compatibility)
     - [Testing user stories](#testing-user-stories)
-  - [Bugs](#bugs)
+  - [Bugs & Fixes](#bugs-&-Fixes)
   - [Deployment](#deployment)
   - [Credits](#credits)
   - [Acknowledgements](#acknowledgements)
